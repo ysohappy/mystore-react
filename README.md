@@ -36,8 +36,8 @@ npm run dev
 
 ## Live Demo
 
-Paste your Vercel URL here.
+https://mystore-react-flax.vercel.app/
 
 ## GitHub Repository
 
-Paste your GitHub repository URL here.
+https://github.com/ysohappy/mystore-react/
